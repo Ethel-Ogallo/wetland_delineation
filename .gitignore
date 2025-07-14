@@ -1,16 +1,15 @@
 self.txt
+
+# All tiffs
 Data/
+OG_Data/
+
+# flood extent GFM results
 flood_extent_mapping/gfm/
 flood_extent_mapping/gfm_fin/
-OG_Data/
+
+# helper notebooks
 Wetland_delienation/202506_Feuchtgebiete-Klassifikation_DE.ipynb
 Wetland_delienation/PUSHED_202505_Fortgeschritten_Prozessierungsschnittstelle_Sentinel-1-CARD-BS_DE.ipynb
 Wetland_delienation/Wetland_GEE.ipynb
 Papers/
-
----output---
-CM_EVIsansNDVI.png
-EVI sans NDVI.png
-EVI+NDVI.png
-FI_EVI sans NDVI.png
-without EVI.png
